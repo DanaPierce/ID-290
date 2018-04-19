@@ -1,0 +1,32 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	font-family: 'Trebuchet MS',futura,arial,sans-serif;
+	background-color: #CCC;
+}
+
+#box1{
+	background-image: url('../images/wallpaper1.jpg');
+	-webkit-background-size: cover;
+	height: 100vh;
+	width: 100vw;
+}
+
+#box2{
+	background-image: url('../images/wallpaper1.jpg');
+	-webkit-background-size: cover;
+	height: 100vh;
+	width: 100vw;
+}
+#box3{
+	background-image: url('../images/wallpaper1.jpg');
+	-webkit-background-size: cover;
+	height: 100vh;
+	width: 100vw;
+}
+#box4{
+	background-image: url('../images/wallpaper1.jpg');
+	-webkit-background-size: cover;
+	height: 100vh;
+	width: 100vw;
+}
